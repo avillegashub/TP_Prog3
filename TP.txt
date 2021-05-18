@@ -1,0 +1,16 @@
+Usuarios
+	Mozos
+	Bartenders
+	Cerveceros
+	Cocineros
+
+	Socios
+
+Pedidos
+	barra de Tragosy Vino
+	barra choperas cerveza artesanal
+	cocina
+	candy bar
+
+
+	
